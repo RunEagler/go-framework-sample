@@ -1,0 +1,9 @@
+- name: "John"
+  age: 35
+  sex: "M"
+- name: "Alex"
+  age: 42
+  sex: "M"
+- name: "Jane"
+  age: 25
+  sex: "F"
